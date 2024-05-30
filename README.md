@@ -1,2 +1,2 @@
 # play-coding
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+코딩을 가지고 논다는 마인드 ^__^'
